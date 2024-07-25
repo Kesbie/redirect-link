@@ -1,0 +1,20 @@
+{
+  "name": "redirect",
+  "version": "1.0.0",
+  "description": "For Redirect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "helmet": "^7.1.0",
+    "nodemon": "^3.1.4"
+  }
+}
